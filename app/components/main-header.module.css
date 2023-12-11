@@ -1,0 +1,30 @@
+.head{
+    background-color: rgb(222, 176, 76);
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    color: black;
+    margin:20px;
+    /* padding:0 10px 0 10px; */
+
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    justify-content: space-around;
+}
+.list{
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.active{
+    text-decoration: none;
+    color:orangered;
+}

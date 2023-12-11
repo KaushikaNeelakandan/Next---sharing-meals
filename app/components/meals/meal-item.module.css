@@ -1,0 +1,13 @@
+.meal{
+    background-color: bisque;
+    padding:5px;
+}
+.link
+{
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    padding:3px;
+    border-radius:10px;
+    float:right;
+}

@@ -1,0 +1,10 @@
+.hidden .input{
+    display:none;
+}
+
+.button{
+    background-color: orange;
+    border:none;
+    padding:3px;
+    margin:10px;
+}
