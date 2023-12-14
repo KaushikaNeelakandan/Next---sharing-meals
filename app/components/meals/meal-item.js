@@ -5,10 +5,10 @@ export default function Mealitem({title,slug,image,summary,creator}){
     return(
         <article className={classes.meal}>
             <header>
-                <Image src={image} alt={title} width={80} height={80} priority />
+                <Image src={image} alt={title} width={200} height={200} priority />
                 <div>
                     <h2>{title}</h2>
-                    <p>{creator}</p>
+                    <p>  - {creator}</p>
                 </div>
             </header>
             <div>

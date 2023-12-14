@@ -10,10 +10,10 @@ export default function Home() {
         <ImageSlideshow />
       
       <div>
-      <h1 className={styles.title}>NEXTLEVEL FOOD FOR FOODIES</h1><br />
-      <Link href="/meals">Explore Meals</Link><br />
-      <Link href="/meals/share">Taste & share</Link><br />
-      <Link href="/community">join the Community</Link><br />
+      <h1 className={styles.title}>NUTRI FOODS FOR FOODIES</h1><br />
+      <h3 className={styles.h3}><Link className={styles.link} href="/meals">Explore Meals</Link><br /></h3>
+      <h3 className={styles.h3}><Link className={styles.link} href="/meals/share">Taste & share</Link><br /></h3>
+      <h3 className={styles.h3}><Link className={styles.link} href="/community">Join the Community</Link><br /></h3>
       </div>
       </header>
       <main>

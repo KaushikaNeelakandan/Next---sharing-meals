@@ -32,8 +32,9 @@
 }
 .form .button{
     background: linear-gradient(100deg,red,orange);
-    padding: 5px;
+    padding: 15px;
     border: none;
     border-radius: 8px;
     margin:20px;
+    text-transform: uppercase;
 }

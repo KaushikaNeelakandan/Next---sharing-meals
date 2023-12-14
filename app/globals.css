@@ -107,8 +107,12 @@ a {
 } */
 body{
   /* background-color: bisque; */
-  background: linear-gradient(110deg,#fdcd3b 60%, hsla(54, 91%, 4%, 0.5) 60%);
-  
+  background-color:bisque;
+  /* margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: fixed;
+  width: 100%; */
 }
 /* .bg{
   background: linear-gradient(60deg,yellow 60%, gray 60%);

@@ -13,7 +13,7 @@ export default function MainHeader(){
                 <li className={classes.list} style={{float:"left"}}>
             <Link href="/" className={classes.link}><Image src={icon} alt="Icon image" width={70} height={70} priority></Image></Link></li>
             <li className={classes.list}>
-                <Link href="/" className={classes.link}><h3>Next Level Food</h3>
+                <Link href="/" className={classes.link}><h3>NUTRI Foods</h3>
             </Link></li>
             <li className={classes.list}>
                 <Navlink href="/meals">Meals</Navlink>

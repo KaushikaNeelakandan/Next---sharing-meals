@@ -9,6 +9,9 @@
     color: black;
 }
 .active{
-    text-decoration: none;
-    color:orangered;
+    text-decoration: underline;
+    color:black;
+    
+    text-decoration-color: rgb(245, 3, 3);
+   
 }
